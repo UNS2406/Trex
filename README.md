@@ -18,14 +18,47 @@ Replay button
 Clouds
 Ground
 Game Over message
+
+
 Describe individual behavior of each element in the game.
-T-Rex: Can jump or duck by using the arrow keys or space bar. Has an animation while running and changes when it touches a cactus. Can’t touch the cactus.
-Cactus: The cactus keeps coming in from the right side and the T-Rex has to jump over them. Each cactus is different from the others, there are 6 different cacti the cactus are placed on the ground, speed of them moving increases as score increases.
-Score: The score is in the top right and is steadily increasing as long as the T-Rex is alive.
-High score: Displayed as “HI,” the high score is the highest score on the game that the player got.
-Replay button: After the T-Rex touches a cactus this button is displayed. Click the replay button to reset the game.
-Clouds: Moves from right to left and is just decoration x velocity is negative. Generated randomly according to vertical position. When the game ends, clouds stop moving. Only one image is used for all the clouds.
-Ground: T-Rex runs on the ground and can only jump when touching it. Moves from right to left and increases in speed as the score increases. Ground and cacti are moving at the same speed.
+T-Rex: 
+Can jump or duck by using the arrow keys or space bar.
+Has an animation while running and 
+changes when it touches a cactus. 
+Can’t touch the cactus.
+
+Cactus: 
+The cactus keeps coming in from the right side and 
+the T-Rex has to jump over them. 
+Each cactus is different from the others, 
+there are 6 different cacti the cactus are placed on the ground,
+speed of them moving increases as score increases. 
+Ground and cacti are moving at the same speed.
+
+
+Score: 
+The score is in the top right and 
+is steadily increasing as long as the T-Rex is alive.
+
+High score: 
+Displayed as “HI,” the high score 
+is the highest score on the game that the player got.
+
+Replay button: 
+After the T-Rex touches a cactus this button is displayed.
+Click the replay button to reset the game.
+
+Clouds: 
+Moves from right to left and is just decoration x velocity is negative. 
+Generated randomly according to vertical position. When the game ends, clouds stop moving.
+Only one image is used for all the clouds.
+
+Ground:
+T-Rex runs on the ground and can only jump when touching it. 
+Moves from right to left 
+increases in speed as the score increases.
+Ground and cacti are moving at the same speed.
+
 Game Over message: Displayed when the T-Rex touches a cactus.
 
 5. What are the elements of skill?
